@@ -18,7 +18,7 @@ LABELS_FILE = PROCESSED_DIR / "labels.json"
 # Classes - the index in this list IS the label used for training.
 # Do not reorder once you have trained a model.
 # ---------------------------------------------------------------------------
-CLASSES = ["Alert", "Drowsy", "Sleeping", "Singing", "Distracted", "Yawning"]
+CLASSES = ["Alert", "Drowsy", "Sleeping", "Singing", "Distracted", "Yawning", "Dazzled"]
 CLASS_TO_IDX = {name: i for i, name in enumerate(CLASSES)}
 NUM_CLASSES = len(CLASSES)
 
