@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 import mediapipe as mp
-#אביאל
 # במחשב מקומי, הדרך הרגילה עובדת מצוין!
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(
