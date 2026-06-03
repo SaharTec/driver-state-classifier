@@ -14,7 +14,6 @@ Classes (7 total):
   - Singing
   - Distracted
   - Yawning
-  - Dazzled
 
 Videos per class:    8-10 videos
 Video length:        15-20 seconds each
@@ -38,8 +37,6 @@ WHAT TO DO IN EACH CLASS:
   Singing    - Mouth moving animatedly, like singing along to music
   Distracted - Look left, right, down at phone, away from the "road"
   Yawning    - Do 2-3 natural yawns per clip (make clips 20-25 sec for this class)
-  Dazzled    - Squint eyes strongly, raise hand toward light source, turn head
-               slightly as if blinded by sudden bright sunlight
 
 
 TIPS:
@@ -65,8 +62,7 @@ Put your videos in this exact structure inside the project folder:
         Singing/        <- put all Singing videos here
         Distracted/     <- put all Distracted videos here
         Yawning/        <- put all Yawning videos here
-        Dazzled/        <- put all Dazzled videos here
-
+        
 IMPORTANT:
   - Folder names must match exactly (capital first letter)
   - Accepted video formats: .mp4, .avi, .mov, .mkv
