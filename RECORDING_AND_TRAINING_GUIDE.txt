@@ -8,12 +8,12 @@
 ----------------------------------------------------------------
 
 Classes (6 total):
-  - Alert
-  - Drowsy
-  - Sleeping
+  - Alert ✔️
+  - Drowsy ✔️
+  - Sleeping 
   - Singing
-  - Distracted
-  - Yawning
+  - Distracted 
+  - Yawning V ✔️
 
 Videos per class:    8-10 videos
 Video length:        15-20 seconds each
