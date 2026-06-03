@@ -7,7 +7,7 @@
   PART 1: HOW MANY VIDEOS AND HOW LONG
 ----------------------------------------------------------------
 
-Classes (7 total):
+Classes (6 total):
   - Alert
   - Drowsy
   - Sleeping
@@ -62,7 +62,7 @@ Put your videos in this exact structure inside the project folder:
         Singing/        <- put all Singing videos here
         Distracted/     <- put all Distracted videos here
         Yawning/        <- put all Yawning videos here
-        
+
 IMPORTANT:
   - Folder names must match exactly (capital first letter)
   - Accepted video formats: .mp4, .avi, .mov, .mkv
